@@ -4,10 +4,20 @@ layout: default
 
 {% include heading.html heading=page.heading %}
 
-<main class="py-6">
-  {% for post in site.posts %}
-  <div class="mb-12">
-    {% include summary.html post=post %}
+<div class="container mx-auto px-4">
+  <div class="flex flex-col md:flex-row gap-8">
+    <!-- Main Content -->
+    <main class="py-6 md:w-3/4">
+      {% for post in site.posts %}
+      <div class="mb-12">
+        {% include summary.html post=post %}
+      </div>
+      {% endfor %}
+    </main>
+
+    <!-- Sidebar -->
+    <aside class="md:w-1/4 py-6">
+      {% include author-sidebar.html %}
+    </aside>
   </div>
-  {% endfor %}
-</main>
+</div>

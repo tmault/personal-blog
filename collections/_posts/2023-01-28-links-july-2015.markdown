@@ -1,0 +1,19 @@
+---
+layout: post
+title: Links (July 2015)
+date: "2023-01-28 12:06:58"
+tags:
+  - Technology
+categories:
+  - Technology
+excerpt: Various links of interest from July 2015.
+featured_image: "/assets/images/https://images.unsplash.com/photo-1507297230445-ff678f10b524?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGludGVybmV0fGVufDB8fHx8MTY3NDkwNzY0Ng&ixlib=rb-4.0.3&q=80&w=2000"
+published: True
+---
+Tony Fadell (Ex-Apple, Nest Co-Founder) proposes we think in terms of the thoughtful home, not the internet of things. This extends to ideas like the thoughtful car (Tesla) and the thoughtful city. Technological innovation is meant to offer useful improvement.
+
+Nobody is interested in a fridge that can send text messages, but consumers are ready to adopt boring, seamless and secure technologies (PDF Report). Security cameras and learning thermostats seem to be trusted at the moment.
+
+Tapingo think you can get your coffee or lunch without waiting. Order on your phone, pay with Touch ID, see it'll be ready in five minutes, then walk into the store and drink. Paid for in advance, no queues, no wasted time.
+
+Ibrar Bhatt notes the importance of the ability to curate and sift through information in a world where any fact is instantly retrievable. Will AI be able to amplify the ability of humans to do this in the future?

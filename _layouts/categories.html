@@ -10,13 +10,26 @@ body_classes: page-categories
   </h1>
 </div>
 
-{% for category in site.categories %}
-  {% assign category_name = category | first %}
-  {% assign category_slug = category_name | slugify %}
-  <div class="mb-10">
-    <h3 class="font-medium text text-green-400" id="#{{ category_slug }}">{{ category_name }}</h3>
-    {% for post in site.categories[category_name] %}
-      {% include summary-category.html post=post %}
+<div class="container mx-auto px-4">
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {% assign categories = site.categories | sort %}
+    {% assign categories_per_column = categories.size | divided_by: 3 | ceil %}
+    
+    {% for i in (0..2) %}
+      <div class="space-y-4">
+        {% assign start = i | times: categories_per_column %}
+        {% assign end = start | plus: categories_per_column | minus: 1 %}
+        {% for category in categories limit: categories_per_column offset: start %}
+          {% assign category_name = category[0] %}
+          {% assign posts = category[1] %}
+          <a href="/category/{{ category_name | slugify }}/" class="block">
+            <div class="bg-blue-900 rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow duration-200">
+              <h2 class="text-xl font-semibold mb-1 text-white">{{ category_name }}</h2>
+              <p class="text-sm text-blue-200">{{ posts.size }} article{% if posts.size != 1 %}s{% endif %}</p>
+            </div>
+          </a>
+        {% endfor %}
+      </div>
     {% endfor %}
   </div>
-{% endfor %}
+</div>

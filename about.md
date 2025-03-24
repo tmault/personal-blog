@@ -1,41 +1,48 @@
 ---
 layout: basic
-title: "About Us"
+title: "About Me"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
 description: "Business plan hackathon handshake responsive web design."
 image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 ---
 
-# Creating Modern Websites
-
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
-
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
-
-## What is Web Design?
-
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
-
-## Front-end Development
-
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
-
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
+Hi, I'm Tom. I am a Technology Consultant. I draw upon my experience in change management and business analysis to deliver effective IT projects.
+Having worked across a number of industries, I focus on being curious about the challenges of each organisation I work for and being an effective intermediary between IT and the business.Posing in Rome
 
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+## Career
+Whilst at university, I got my first proper job as a first-line support assistant in my university help desk. Whilst working there I got talking to a Programme Manager from the IT department who told tales of the challenges and trials of sitting between IT and the business. Something about his career resonated with me and I decided to looks for jobs in that space (thanks Bruce if you're reading this!).
+
+That led me to look for a job in IT consulting after graduating; what better space to sit than directly where clients have IT problems that need to be solved to improve business outcomes.
+
+I have worked on projects such as:
+- IT Programme for an organisational redesign directly impacting 30,000 staff and 30+ systems (including mission-critical)
+Microsoft Teams & Modern SharePoint design & deployment to a 10,000 person organisation
+- 5000 user smartphone deployment
+- Business change for a number of projects and programmes, including for an agile in-house bespoke application with several hundred users
+- 50+ endpoint enterprise Video Conferencing deployment
+- Authoring various business cases for network infrastructure upgrades, hardware deployments, and cloud migrations
+
+## Hobbies
+Some of my main hobbies are:
+- Learning German. I am learning through a combination of in-person evening classes, textbook study, and using apps like Anki to perform spaced repetition.
+- Cycling. I have a Canyon Ultimate with SRAM Force AXS. When I am not outside, I am riding inside on a Garmin Tacx Neo 2T.
+- Pretending to be a racing driver on iRacing. From the moment I got my first gaming console (a PS1 as a child), I have enjoyed racing games. I used to avidly enjoy every Gran Turismo game. Over the pandemic, with a lot more time at home, I put together a gaming PC. I am now getting into iRacing.
+
+## Continuous Learning
+I have always been curious, and try to be constantly learning, whether that's always having a book on the go or studying for a professional qualification.
+At University I studied Geography and Management. Shortly after graduating, I passed the Udacity Into to Programming Degree, gaining a foundational understanding of HTML, CSS, and Python. Whilst almost all of my day to day professional activities go no deeper than the GUI, I find an understanding of back end and front end development immensely valuable.
+I try to study at least one professional qualification each half. In 2021 I am focused on project management techniques. Over the summer I am learning PRINCE2 - a robust project management methodology that sits behind many large complex programmes.
+Some of the concepts I am studying in 2024 include:
+Using Tailscale and docker containers for self hosting 
+Project management techniques 
+In the past I have studied:
+Scrum.org Professional Scrum Master I
+BCS Certificate in Requirements Engineering
+BCS Certificate in Systems Modelling Techniques with UML
+BCS Certificate in Business Analysis Practice
+BCS Certificate in Commercial Awareness
+ITIL Foundation
+Around the web
+You’ll find me on Twitter and LinkedIn.

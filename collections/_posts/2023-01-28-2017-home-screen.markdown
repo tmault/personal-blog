@@ -1,0 +1,35 @@
+---
+layout: post
+title: My 2017 Home Screen
+date: "2023-01-28 10:57:56"
+tags:
+  - Technology
+  - Recommendations
+categories:
+  - Technology
+  - Recommendations
+excerpt: A look at a few apps I have used in 2017.
+featured_image: None
+published: True
+---
+In the style of M.G. Siegler, I have decided to start documenting my smartphone home screen each year.
+
+At the beginning of 2017 I was using an iPhone 6, but it was beginning to feel a little big in my hands (the result of a chunky old Mophie battery case). Around October, after I read this piece by Om Malik on large phones, I decided to trade in the iPhone 6 and buy an iPhone SE. This phone had a relatively short-lifespan, as a few months later I traded in the iPhone SE as I decided to pick up an iPhone X at the end of December 2017 (and yes, it was a completely irrational purchase given a few months earlier I thought the iPhone 6 was too big).
+
+Which apps are memorable introductions this year?
+
+ **Gladys** is a simple app that allows you to store anything that can be copied or shared on iOS. I have been mainly using it to store stuff temporarily - things like discount codes, reference numbers for customer enquiries etc. It has only been on the home screen for a few weeks, but it has settled in well.
+
+I typically just use the **Kindle** app now rather than carrying around my old physical Kindle. I don't tend to keep the Kindle's WiFi on, so it quickly slips out of sync with my last read locations from other devices.
+
+ **lire** has largely replaced **Reeder** for RSS feeds. This is mainly due to the offline sync feature, which automatically downloads RSS text in the background without me having to open the app. This makes it a great app for hopping on the tube and finding something new to read.
+
+In mediation apps, **Oak** replaced a premium subscription to **Headspace**.
+
+ **Narwhal** , an app for viewing Reddit has slowly snuck onto my front page (albeit within in a folder).
+
+Over the past few days, I have started to use **Habitica** to track habits and recurring to-do's, (replacing a long time home screen favourite **Productive** ). The app was recommended in Kevin Rose's newsletter, and so far I am liking Habitica's clean interface and reporting.
+
+ **Scanbot** replaced **Scanner Pro**. It has a simple user interface and neat OCR features. Scanbot quickly pulls websites, phone numbers, addresses etc. from scanned documents. This OCR capability was the main reason I switched apps.
+
+That's a quick overview of the main recent app changes. Lastly, happy new year!

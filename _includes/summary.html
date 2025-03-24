@@ -1,24 +1,24 @@
 <div class="flex flex-col md:flex-row w-full lg:w-10/12">
 
-  {% if post.thumbnail %}
-    <div class="md:mr-4 mb-2 md:mb-0 md:w-4/12 ">
-      <a class="bg-gray-100" href="{{ post.url | relative_url }}">
-        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}"/></a>
-    </div>
-  {% endif %}
+  <div class="md:mr-4 mb-2 md:mb-0 md:w-4/12">
+    <a href="{{ post.url | relative_url }}">
+      {% if post.featured_image %}
+        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="{{ post.title }}" src="{{ post.featured_image | relative_url }}"/>
+      {% else %}
+        <div class="w-full h-[360px] rounded mb-3 bg-gradient-to-r from-[#7e91c4] to-[#a697ba] flex items-center justify-center hover:opacity-70 transition duration-300 ease-in-out">
+          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" fill="none" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M32 56h192a8 8 0 0 1 8 8v128a8 8 0 0 1-8 8H32a8 8 0 0 1-8-8V64a8 8 0 0 1 8-8Z"/>
+            <path d="M32 96h192"/>
+            <path d="M32 136h192"/>
+            <path d="M32 176h192"/>
+          </svg>
+        </div>
+      {% endif %}
+    </a>
+  </div>
 
   <div class="flex-1">
     <div class="flex items-center">
-      {% if post.authors %}
-        <div class="flex ml-4">
-          {% for author in post.authors %}
-            {% include author.html
-        author=author
-        show_author_name=false
-        %}
-          {% endfor %}
-        </div>
-      {% endif %}
       <div class="text-sm font-medium text-gray-700">{{ post.date | date_to_long_string }}</div>
     </div>
 
@@ -26,7 +26,9 @@
       <h2 class="text-2xl font-semibold mb-1">{{ post.title }}</h2>
     </a>
 
-    <p class="text-base font-light text-gray-600 mb-4">{{ post.description }}</p>
+    {% if post.excerpt %}
+      <p class="text-base font-light text-gray-600 mb-4">{{ post.excerpt }}</p>
+    {% endif %}
 
     {% if post.categories %}
       <div class="mb-2">
