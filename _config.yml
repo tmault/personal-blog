@@ -19,12 +19,12 @@ logo:
   logo_desktop_width: "36px"
 
 social_links:
-  linkedin: "https://linkedin.com/in/your-profile"
-  twitter: "https://x.com/your-profile"
+  linkedin: "https://www.linkedin.com/in/tmault/"
+  twitter: "https://x.com/tmault"
 
 seo:
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@tmault"
+  meta_twitter_creator: "@tmault"
   meta_og_image: "https://www.zerostatic.io/theme/jekyll-atlantic/jekyll-atlantic-screenshot.png"
 
 plugins:
@@ -33,13 +33,13 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
 
-paginate: 3
-paginate_path: /blog/page:num/
+paginate: 10
+paginate_path: /blog/page-:num/
 
 collections:
   posts:
     output: true
-    permalink: /blog/:name/
+    permalink: /blog/:slug/
 
 defaults:
   - scope:

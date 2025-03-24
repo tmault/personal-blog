@@ -9,7 +9,7 @@ categories:
   - Recommendations
   - Technology
 excerpt: Lloyds Bank does not work directly with Garmin Pay. In this article, I explain how to use an extra-free service to make Lloyds Bank work with Garmin Pay.
-featured_image: "/assets/images/https://images.unsplash.com/photo-1728281189472-7070f13b0b29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdhcm1pbiUyMHdhdGNofGVufDB8fHx8MTczMjczNTU2N3ww&ixlib=rb-4.0.3&q=80&w=2000"
+featured_image: "/assets/images/unsplash/1728281189472-7070f13b0b29.jpg"
 published: True
 ---
 If you use Lloyds Bank as your bank account, you might have been disappointed to find out that it is not compatible with Garmin Pay in the UK. There is a very simple solution to make Lloyds Bank work with Garmin Pay; [Curve](https://curvecard.sjv.io/c/3731396/1852232/12851). [Curve](https://curvecard.sjv.io/c/3731396/1852232/12851) is a digital wallet that allows you to combine British bank cards behind a virtual card. That virtual card can then be added to Garmin Pay. 

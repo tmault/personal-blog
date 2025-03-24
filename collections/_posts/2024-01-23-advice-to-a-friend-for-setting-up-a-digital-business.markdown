@@ -9,7 +9,7 @@ categories:
   - Productivity
   - Technology
 excerpt: Advice to a friend on getting a service business up and running digitally, including selecting a domain, setting up email, making a blog, and taking appointment bookings.
-featured_image: "/assets/images/https://images.unsplash.com/photo-1565728744382-61accd4aa148?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDU3fHxidXNpbmVzc3xlbnwwfHx8fDE3MDYwMzYzNzF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+featured_image: "/assets/images/unsplash/1565728744382-61accd4aa148.jpg"
 published: True
 ---
 When you read writing advice, you often come across the idea that you should write with a specific person in mind. 

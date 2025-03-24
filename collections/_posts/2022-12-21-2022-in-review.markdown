@@ -7,7 +7,7 @@ tags:
 categories:
   - Personal Development
 excerpt: When I sat down, I thought I had a fairly quiet year. When I started thinking, I realised that was a bit of an understatement. 
-featured_image: "/assets/images/https://images.unsplash.com/photo-1585933654851-820691b3740f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDk0fHxzdWl0Y2FzZXxlbnwwfHx8fDE2NzIzMjE4OTQ&ixlib=rb-4.0.3&q=80&w=2000"
+featured_image: "/assets/images/unsplash/1585933654851-820691b3740f.jpg"
 published: True
 ---
 Wow, what a year.

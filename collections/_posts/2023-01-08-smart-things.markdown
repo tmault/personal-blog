@@ -5,7 +5,7 @@ date: "2023-01-08 13:10:57"
 tags:
 categories:
 excerpt: None
-featured_image: "/assets/images/https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGJyYWlufGVufDB8fHx8MTY3MzE4MzUyMA&ixlib=rb-4.0.3&q=80&w=2000"
+featured_image: "/assets/images/unsplash/1507413245164-6160d8298b31.jpg"
 published: True
 ---
 There are a couple of minor things I wished someone had told me earlier in life. I’ve listed a few of them below.

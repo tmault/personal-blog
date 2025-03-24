@@ -9,7 +9,7 @@ categories:
   - Switzerland
   - Recommendations
 excerpt: There are a number of organisations in Switzerland that grant members benefits that are disproportional to the membership cost. Here I share a few I have found!
-featured_image: "/assets/images/https://images.unsplash.com/photo-1491555103944-7c647fd857e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxzd2l0emVybGFuZHxlbnwwfHx8fDE3Mjg3NjY2ODF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+featured_image: "/assets/images/unsplash/1491555103944-7c647fd857e6.jpg"
 published: True
 ---
 Since moving to Switzerland, I have noticed a few memberships or organisations that you can join with particularly appealing benefits. 
